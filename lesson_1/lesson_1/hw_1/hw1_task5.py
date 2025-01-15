@@ -38,27 +38,32 @@ def game():
     finish = 100
     dot = True
     cnt = 1
-    #answer = {1: 'равно', 2: 'больше', 3: 'меньше'}
+    # answer = {1: 'равно', 2: 'больше', 3: 'меньше'}
     print('Загадайте число от 1 до 100')
     while dot:
         n = (start + finish) // 2
         print('Ваше число: равно, больше или меньше, числа - ', n)
         ans = int(input('1 - равно, 2 - больше, 3 - меньше: \n'))
-        if ans == 1:
-            print(f'Вы загадали число {n}, угадано с {cnt} попытки.')
-            game_loop = int(input('Сыграем еще?: 1 - да, 2 - нет: \n'))
-            if game_loop == 2:
-                print('До свидания.')
-                dot = False
-            else:
-                start = 1
-                finish = 100
-                cnt = 1
-        elif ans == 2:
-            start = n
-        elif ans == 3:
-            finish = n
-        cnt += 1
+        # try:
+        #     ans not in (1, 2, 3)
+        # except:
+        #     print('Введите числа: 1, 2, 3')
+        # else:
+            if ans == 1:
+                print(f'Вы загадали число {n}, угадано с {cnt} попытки.')
+                game_loop = int(input('Сыграем еще?: 1 - да, 2 - нет: \n'))
+                if game_loop == 2:
+                    print('До свидания.')
+                    dot = False
+                else:
+                    start = 1
+                    finish = 100
+                    cnt = 1
+            elif ans == 2:
+                start = n
+            elif ans == 3:
+                finish = n
+            cnt += 1
 
 
 game()
