@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83276b1-d031-4c68-bcd2-fe78514bd03e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +55,8 @@
     "Python.task_4.executor": "Run",
     "Python.task_5.executor": "Run",
     "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

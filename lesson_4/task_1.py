@@ -10,9 +10,9 @@
 
 def print_words(text):
     '''The function of printing a new word with a new line'''
-    words = sorted(text.split())
+    words = sorted(text.lower().split())
     for i, w in enumerate(words, 1):
-        print(f'{i}.{w: >{len(max(words, key=len)) + 1}}')
+        print(f'{i:>3}.{w: >{len(max(words, key=len)) + 1}}')
 
 
 text = input('Enter the text: ')

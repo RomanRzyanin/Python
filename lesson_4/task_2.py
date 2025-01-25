@@ -8,7 +8,7 @@ def encoding_string(text):
     '''The function of printing list  unicum  elements and their code on utf-8'''
     res = []
     text_symbol = ''.join(text.split())
-    text_set = sorted(list(set(text_symbol)))
+    text_set = sorted(list(set(text_symbol)), reverse=True)
     for el in text_set:
         res.append((el, ord(el)))
     #result = sorted(res, key=res[1])

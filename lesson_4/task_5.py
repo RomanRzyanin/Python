@@ -16,7 +16,7 @@ def func_created_dict(name, salary, bonus):
     ✔ премия str с указанием процентов вида «10.25%».
     ✔ Вернуть словарь с именем в качестве ключа и суммой
     премии в качестве значения.'''
-    bonus_l = map(lambda x, y: x * float(y.strip('%')), salary, bonus)
+    bonus_l = map(lambda x, y: x * float(y.rstrip('%')) / 100, salary, bonus)
     res_dict = dict(zip(name, bonus_l))
     return res_dict
 

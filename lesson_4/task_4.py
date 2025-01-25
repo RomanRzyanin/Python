@@ -7,6 +7,7 @@
 '''
 import random as r
 import time as t
+from timeit import timeit
 
 
 def my_bubble_sort(lst_1):
@@ -22,21 +23,21 @@ def my_bubble_sort(lst_1):
 my_lst = [r.randint(0, 1000) for i in range(10000)]
 
 '''Coping lists'''
-my_lst_c = my_lst.copy()
-my_lst_c2 = my_lst.copy()
-my_lst_c3 = my_lst.copy()
+# my_lst_c = my_lst.copy()
+# my_lst_c2 = my_lst.copy()
+# my_lst_c3 = my_lst.copy()
 
 '''Bubble sort'''
 start_1 = t.time()
-res_1 = my_bubble_sort(my_lst_c)
+# res_1 = my_bubble_sort(my_lst[:])
 stop_1 = t.time()
 '''Function sorted()'''
 start_2 = t.time()
-res_2 = sorted(my_lst_c2)
+res_2 = sorted(my_lst[:])
 stop_2 = t.time()
 '''Method .sort()'''
 start_3 = t.time()
-my_lst_c3.sort()
+my_lst[:].sort()
 stop_3 = t.time()
 
 '''Time of sorted Bubble_sort'''
@@ -46,5 +47,7 @@ time_2 = (stop_2 - start_2) * 1000
 '''Time of sorted Method .sort()'''
 time_3 = (stop_3 - start_3) * 1000
 
-print(f'{my_lst = } \n\n Bubble sort: \n {res_1 = } \n {time_1 = } \n\n Function sorted: \n {res_2 = } \n {time_2 = } '
-      f'\n\n Method sort \n {my_lst_c3 = } \n {time_3 = }')
+print(timeit('my_bubble_sort(my_lst[:])', globals=globals(), number=10))
+
+# print(f'{my_lst = } \n\n Bubble sort: \n  \n {time_1 = } \n\n Function sorted: \n  \n {time_2 = } '
+#       f'\n\n Method sort \n  \n {time_3 = }')

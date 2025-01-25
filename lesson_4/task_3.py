@@ -9,7 +9,7 @@
 
 def func_digit(text):
     '''The function return of dictionary key - code on utf-8, value - integer'''
-    return {ord(el): int(el) for el in sorted(''.join(text.split()))}
+    return {chr(int(el)): int(el) for el in sorted((text.split()))}
 
 
 digit = input('Enter two integers separated by spaces: ')
