@@ -15,6 +15,7 @@ for el in my_list:
         my_list_u_long.append(el)
 my_list_u_long.sort()
 my_list_c = my_list_u_long
+
 print(f'{my_list = }\n{my_list_u_long = }')
 print((my_list_u_long) == (my_list_u_shot))
 print(type(my_list_u_long), type(my_list_u_shot))

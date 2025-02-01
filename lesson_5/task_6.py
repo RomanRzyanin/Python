@@ -8,13 +8,20 @@
 без перехода на новую строку.
 '''
 
+#
+# for j in range (2, 10):
+#     for i in range (2, 6):
+#         print(i, '*', j, '=', i * j, end='   \t')
+#     print()
+# print()
+# for j in range (2, 10):
+#     for i in range (6, 10):
+#         print(i, '*', j, '=', i * j, end='   \t')
+#     print()
 
-for j in range (2, 10):
-    for i in range (2, 6):
-        print(i, '*', j, '=', i * j, end='   \t')
-    print()
-print()
-for j in range (2, 10):
-    for i in range (6, 10):
-        print(i, '*', j, '=', i * j, end='   \t')
-    print()
+
+my_gen = (f'\n' if j == 11 else f'{i} * {j} = {j * i}'.ljust(15) for i in range(2, 10) for j in range(2, 12))
+# print(*my_gen)
+
+for el in my_gen:
+    print(el, end=' ')

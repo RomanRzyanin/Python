@@ -6,14 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a83276b1-d031-4c68-bcd2-fe78514bd03e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/task_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +36,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.111.executor": "Run",
-    "Python.hw4_task1.executor": "Run",
-    "Python.hw4_task2.executor": "Run",
-    "Python.hw4_task3.executor": "Run",
-    "Python.hw4_task4.executor": "Run",
-    "Python.hw4_task5.executor": "Run",
-    "Python.task_1.executor": "Run",
-    "Python.task_2.executor": "Run",
-    "Python.task_3.executor": "Run",
-    "Python.task_4.executor": "Run",
-    "Python.task_5.executor": "Run",
-    "Python.task_6.executor": "Run",
-    "Python.task_7.executor": "Run",
-    "Python.task_8.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/GeekBrains/2nd_year/Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5_task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task7_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GeekBrains/2nd_year/Python/lesson_6/task_3.py&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GeekBrains\2nd_year\Python\lesson_6\hw_6\task_6" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
