@@ -32,12 +32,12 @@ def batch_rename_files(directory, final_name, num_digits, old_extension, new_ext
         # Извлекаем базовое имя файла без расширения
         base_name = os.path.splitext(file_name)[0]
 
-    # Извлекаем часть имени файла по заданному диапазону
-    if name_range:
-        start, end = name_range
-        extracted_name = base_name[start - 1:end]  # Индексы  диапазона начинаются с 0
-    else:
-        extracted_name = base_name
+        # Извлекаем часть имени файла по заданному диапазону
+        if name_range:
+            start, end = name_range
+            extracted_name = base_name[start - 1:end]  # Индексы  диапазона начинаются с 0
+        else:
+            extracted_name = base_name
         new_file_name = f"{extracted_name}{final_name}{format_string.format(index)}{new_extension}"
         old_file_path = os.path.join(directory, file_name)
         new_file_path = os.path.join(directory, new_file_name)
@@ -49,9 +49,9 @@ def batch_rename_files(directory, final_name, num_digits, old_extension, new_ext
 if __name__ == "__main__":
 
 # Проверяем количество аргументов командной строки
-if len(sys.argv) != 6:
-    print("Usage: python file_rename.py <directory> <final_name> < num_digits > < old_extension > < new_extension > ")
-    sys.exit(1)
+    if len(sys.argv) != 6:
+        print("Usage: python file_rename.py <directory> <final_name> < num_digits > < old_extension > < new_extension > ")
+        sys.exit(1)
     directory = sys.argv[1]
     final_name = sys.argv[2]
     num_digits = int(sys.argv[3])
@@ -59,4 +59,5 @@ if len(sys.argv) != 6:
     new_extension = sys.argv[5]
     # Например, диапазон [3, 6]
     name_range = [3, 6]
-    batch_rename_files(directory, final_name, num_digits, old_extension, new_extension, name_range)`
+    batch_rename_files(directory, final_name, num_digits, old_extension, new_extension, name_range)
+

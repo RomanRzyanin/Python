@@ -6,22 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a83276b1-d031-4c68-bcd2-fe78514bd03e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 1. Погружение в Python. Основы Python-объединены(big).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 1. Погружение в Python. Основы Python.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 10. Погружение в Python. ООП. Начало.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 11. Погружение в Python. ООП. Особенности Python.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 12. Погружение в Python. ООП. Финал.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 13. Погружение в Python. Исключения.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 14. Погружение в Python. Основы тестирования.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 15. Погружение в Python. Обзор стандартной библиотеки Python.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 2. Погружение в Python. Простые типы данных.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 3. Погружение в Python. Коллекции.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 4. Погружение в Python. Функции.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 5. Погружение в Python. Итераторы и генераторы (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 6. Погружение в Python. Модули.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 7. Погружение в Python. Файлы и файловая система.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 8. Погружение в Python. Сериализация.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/materials/Л 9. Погружение в Python. Декораторы.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/hw_7/hw_1/hw7_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/hw_7/hw_1/hw7_task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
