@@ -6,9 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="a83276b1-d031-4c68-bcd2-fe78514bd03e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_5/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_5/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 1. Погружение в Python. Основы Python-объединены(big).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 1. Погружение в Python. Основы Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 10. Погружение в Python. ООП. Начало.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 11. Погружение в Python. ООП. Особенности Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 12. Погружение в Python. ООП. Финал.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 13. Погружение в Python. Исключения.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 14. Погружение в Python. Основы тестирования.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 15. Погружение в Python. Обзор стандартной библиотеки Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 2. Погружение в Python. Простые типы данных.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 3. Погружение в Python. Коллекции.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 4. Погружение в Python. Функции.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 5. Погружение в Python. Итераторы и генераторы (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 6. Погружение в Python. Модули.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 7. Погружение в Python. Файлы и файловая система.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 8. Погружение в Python. Сериализация.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materials/Л 9. Погружение в Python. Декораторы.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +52,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.est.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw4_task1.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw4_task2.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw4_task3.executor&quot;: &quot;Run&quot;,
@@ -53,16 +68,22 @@
     &quot;Python.hw6_task3.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson_5.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_7.executor&quot;: &quot;Run&quot;,
     &quot;Python.main_task1.executor&quot;: &quot;Run&quot;,
     &quot;Python.main_task2.executor&quot;: &quot;Run&quot;,
     &quot;Python.main_task3.executor&quot;: &quot;Run&quot;,
     &quot;Python.main_task4.executor&quot;: &quot;Run&quot;,
     &quot;Python.main_task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task1_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.task2_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task3_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task5_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.task7_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_4.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
@@ -71,13 +92,94 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GeekBrains/2nd_year/Python/lesson_6/task_3.py&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/GeekBrains/2nd_year/Python/lesson_7/task_5/task5_main.py&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GeekBrains\2nd_year\Python\lesson_7\task_3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GeekBrains\2nd_year\Python\lesson_7\task_1" />
+      <recent name="D:\GeekBrains\2nd_year\Python\lesson_7\task_3" />
+      <recent name="D:\GeekBrains\2nd_year\Python\lesson_7\task_5\_init" />
       <recent name="D:\GeekBrains\2nd_year\Python\lesson_6\hw_6\task_6" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.est">
+    <configuration name="est" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7/task_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/task_7/est.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7/task_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/task_4/task_4.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7/task_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/task_7/task_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.est" />
+        <item itemvalue="Python.task_7" />
+        <item itemvalue="Python.task_4.1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
