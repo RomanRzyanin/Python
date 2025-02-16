@@ -28,4 +28,4 @@ if __name__ == '__main__':
 #
 # data = r_c.read_csv(_path)
 # print(data)
-# print(e_d.edit_data(data)[0])
+#print(e_d.edit_data(data)[0])
