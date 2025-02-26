@@ -1,0 +1,50 @@
+[
+  {
+    "function_name": "my_func",
+    "args": [
+      1,
+      2
+    ],
+    "kwargs": {
+      "c": 3,
+      "d": 56
+    },
+    "result": 62
+  },
+  {
+    "function_name": "my_func",
+    "args": [
+      4,
+      5
+    ],
+    "kwargs": {
+      "c": 6,
+      "d": 34
+    },
+    "result": 49
+  },
+  {
+    "function_name": "my_func",
+    "args": [
+      1,
+      2
+    ],
+    "kwargs": {
+      "c": 3,
+      "d": 56
+    },
+    "result": 63
+  },
+  {
+    "function_name": "my_func",
+    "args": [
+      4,
+      5
+    ],
+    "kwargs": {
+      "c": 6,
+      "d": 34
+    },
+    "result": 68
+  }
+]

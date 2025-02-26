@@ -7,21 +7,21 @@ pickle. Для дочерних объектов указывайте родит
 файлов и директорий. Соберите из созданных на уроке и в рамках домашнего
 задания функций пакет для работы с файлами разных форматов.'''
 
-from lesson_8.hw_8.hw_1.my_files import scan_dir
-from lesson_8.hw_8.hw_1.my_files import save_to_pickle
-from lesson_8.hw_8.hw_1.my_files import save_to_csv
-from lesson_8.hw_8.hw_1.my_files import save_to_json
-#from lesson_8.hw_8.hw_1.my_files import get_size
+import scan_dir
+import save_to_pickle
+import save_to_csv
+import save_to_json
+
 
 
 def main_func(directory):
     data = scan_dir.scan_dir(directory)
-    print(data)
+    #print(data)
 
     save_to_json.save_to_json(data, 'directory_info.json')
     save_to_csv.save_to_csv(data, 'directory_info.csv')
     save_to_pickle.save_to_pickle(data, 'directory_info.pkl')
 
 
-if __name__ == '__main__':
-    main_func('D:/GeekBrain/2nd_year/Python/lesson_8')
+#if __name__ == '__main__':
+main_func('D:/GeekBrain/2nd_year/Python/lesson_8')

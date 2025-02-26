@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a83276b1-d031-4c68-bcd2-fe78514bd03e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/hw_8/hw_4/hw8_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/hw_8/hw_4/hw8_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/hw_8/hw_4/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/hw_8/hw_4/read_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/hw_8/hw_5/hw8_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/hw_8/hw_5/hw8_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/hw8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/hw8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/my_files/get_size.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/my_files/get_size.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/my_files/scan_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/my_files/scan_dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/hw_8/hw_1/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,66 +37,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.111.executor&quot;: &quot;Run&quot;,
-    &quot;Python.123.executor&quot;: &quot;Run&quot;,
-    &quot;Python.est.executor&quot;: &quot;Run&quot;,
-    &quot;Python.get_size.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw5_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw5_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw5_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw5_task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw6_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw6_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw6_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw8_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw8_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw8_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw8_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_task5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scan_dir.executor&quot;: &quot;Run&quot;,
-    &quot;Python.t.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task1_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task2_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task3_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task4_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task5_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task7_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task8_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2_l.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4_gen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GeekBrains/2nd_year/Python/lesson_8/task_1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.111.executor": "Run",
+    "Python.123.executor": "Run",
+    "Python.est.executor": "Run",
+    "Python.get_size.executor": "Run",
+    "Python.hw4_task1.executor": "Run",
+    "Python.hw4_task2.executor": "Run",
+    "Python.hw4_task3.executor": "Run",
+    "Python.hw4_task4.executor": "Run",
+    "Python.hw4_task5.executor": "Run",
+    "Python.hw5_task1.executor": "Run",
+    "Python.hw5_task2.executor": "Run",
+    "Python.hw5_task3.executor": "Run",
+    "Python.hw5_task4.executor": "Run",
+    "Python.hw6_task1.executor": "Run",
+    "Python.hw6_task2.executor": "Run",
+    "Python.hw6_task3.executor": "Run",
+    "Python.hw8_1.executor": "Run",
+    "Python.hw8_2.executor": "Run",
+    "Python.hw8_3.executor": "Run",
+    "Python.hw8_4.executor": "Run",
+    "Python.hw9_1.executor": "Run",
+    "Python.hw9_2.executor": "Run",
+    "Python.hw9_3.executor": "Run",
+    "Python.hw9_4.executor": "Run",
+    "Python.lesson_5.executor": "Run",
+    "Python.lesson_6.executor": "Run",
+    "Python.lesson_7.executor": "Run",
+    "Python.lesson_8.executor": "Run",
+    "Python.lesson_9.executor": "Run",
+    "Python.main_task1.executor": "Run",
+    "Python.main_task2.executor": "Run",
+    "Python.main_task3.executor": "Run",
+    "Python.main_task4.executor": "Run",
+    "Python.main_task5.executor": "Run",
+    "Python.scan_dir.executor": "Run",
+    "Python.t.executor": "Run",
+    "Python.task1_main.executor": "Run",
+    "Python.task2_main.executor": "Run",
+    "Python.task3_main.executor": "Run",
+    "Python.task4_main.executor": "Run",
+    "Python.task5_main.executor": "Run",
+    "Python.task7_main.executor": "Run",
+    "Python.task8_3.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_2_l.executor": "Run",
+    "Python.task_3.1.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.1.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_4_gen.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/GeekBrains/2nd_year/Python/lesson_8/task_1",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GeekBrains\2nd_year\Python\lesson_8\task_1" />
@@ -109,7 +116,7 @@
       <recent name="D:\GeekBrains\2nd_year\Python\lesson_6\hw_6\task_6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw8_4">
+  <component name="RunManager" selected="Python.hw9_4">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -133,29 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw8_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8/hw_8/hw_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/hw_8/hw_1/hw8_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hw8_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw9_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +150,11 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8/hw_8/hw_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/hw_8/hw_2/hw8_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_1/hw9_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw8_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw9_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,11 +173,11 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8/hw_8/hw_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/hw_8/hw_3/hw8_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_2/hw9_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw8_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw9_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,11 +196,34 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8/hw_8/hw_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/hw_8/hw_4/hw8_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_3/hw9_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw9_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_4/hw9_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +242,11 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8/hw_8/hw_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/hw_8/hw_1/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_9/hw_9/hw9_4/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,19 +256,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hw8_3" />
-      <item itemvalue="Python.hw8_4" />
-      <item itemvalue="Python.hw8_2" />
+      <item itemvalue="Python.hw9_1" />
+      <item itemvalue="Python.hw9_2" />
+      <item itemvalue="Python.hw9_3" />
+      <item itemvalue="Python.hw9_4" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.hw8_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw8_4" />
-        <item itemvalue="Python.hw8_3" />
-        <item itemvalue="Python.hw8_2" />
-        <item itemvalue="Python.hw8_1" />
+        <item itemvalue="Python.hw9_4" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.hw9_3" />
+        <item itemvalue="Python.hw9_2" />
+        <item itemvalue="Python.hw9_1" />
       </list>
     </recent_temporary>
   </component>

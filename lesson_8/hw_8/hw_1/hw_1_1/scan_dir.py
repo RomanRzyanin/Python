@@ -1,5 +1,5 @@
 import os
-from lesson_8.hw_8.hw_1.my_files import get_size
+import get_size
 
 __all__ = ['scan_dir']
 
