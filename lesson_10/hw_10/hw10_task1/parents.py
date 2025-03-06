@@ -34,7 +34,7 @@ class Parents:
 
         if self.children:
             print(f'{self._name} has the following children:')
-        for child in self.children:
-            print(f' - {child}')
+            for child in self.children:
+                print(f' - {child}')
         else:
             print(f'У {self._name} нет детей.')

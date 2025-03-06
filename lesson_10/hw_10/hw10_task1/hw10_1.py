@@ -21,10 +21,10 @@ from child import Child
 
 if __name__ == '__main__':
 
-    parent = Parents('Иван', 40)
-    child1 = Child('Анна', 20)
-    child2 = Child('Петя', 10)
-    child3 = Child('Маша', 3)
+    parent = Parents('Ivan', 40)
+    child1 = Child('Anna', 20)
+    child2 = Child('Anton', 10)
+    child3 = Child('Mariia', 3)
 
     # Добавление детей к родителю
     for child in [child1, child2, child3]:
