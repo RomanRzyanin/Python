@@ -44,3 +44,11 @@ class Game:
 игры, хотят ли игроки продолжать играть. После каждой игры выводится текущий счёт
 игроков.
 '''
+from player import Player
+from game import Game
+
+player1 = Player("Игрок 1", 'X')
+player2 = Player("Игрок 2", 'O')
+# Запускаем игру
+game = Game(player1, player2)
+game.start_games()
