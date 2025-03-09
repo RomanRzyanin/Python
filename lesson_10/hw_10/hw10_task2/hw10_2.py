@@ -28,3 +28,29 @@
 По такой логике эксперимента человеку надо прожить 365 дней.
 Реализуйте такую программу и создайте двух людей, живущих в одном доме.
 Проверьте работу программы несколько раз.'''
+
+from house import House
+from human import Human
+
+# Создаем объекты дома и людей
+house1 = House()
+human1 = Human("Артем", house1)
+human2 = Human("Даша", house1)
+
+house2 = House()
+human3 = Human("Филипп", house2)
+try:
+    for day in range(1, 366):
+        print(f"\nДень {day}")
+        if not human1.live_day() or not human2.live_day() or not human3.live_day():
+            print(f"Человек умер на {day} день.")
+            break
+finally:
+    # Выводим конечные результаты
+    print("\nСостояние пары:")
+    print(f"Еда в холодильнике - {house1.food}, Деньги - {house1.money}")
+    print(f"Состояние {human1.name}: Сытость - {human1.hunger}")
+    print(f"Состояние {human2.name}: Сытость - {human2.hunger}\n")
+    print("Состояние одиночки:")
+    print(f"Еда в холодильнике - {house2.food}, Деньги - {house2.money}")
+    print(f"Состояние {human3.name}: Сытость - {human3.hunger}")
