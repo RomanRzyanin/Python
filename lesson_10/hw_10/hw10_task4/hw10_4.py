@@ -31,3 +31,15 @@ animal_type (строка) - тип животного (один из: 'Bird', '
 сообщением 'Недопустимый тип животного'.
 '''
 
+from animal_factory import AnimalFactory
+
+
+bird1 = AnimalFactory.create_animal('Bird', 'Chicken', 2.71)
+fish1 = AnimalFactory.create_animal('fish', 'Shark', 200)
+mammal1 = AnimalFactory.create_animal('Mammal', 'Elephant', 500)
+print(bird1)  # Вывод: Dog named Buddy of breed Golden Retriever
+print(fish1)  # Вывод: Cat named Whiskers with color Black
+print(mammal1)
+print(bird1.wing_length())  # Вывод: Woof!
+print(fish1.depth())  # Вывод: Meow!
+print(mammal1.category())
