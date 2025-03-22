@@ -59,7 +59,3 @@ print(f"Периметр rect3: {rect3.perimetr()}")
 # print(f"rect1 < rect2: {rect1 > rect2}")
 # print(f"rect1 == rect2: {rect1 != rect2}")
 # print(f"rect1 <= rect2: {rect1 >= rect2}")
-
-
-
-
